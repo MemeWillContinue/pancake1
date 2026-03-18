@@ -6,7 +6,7 @@ This module implements your "one-time approval + fully automatic execution" flow
 2. Bot calls executor.
 3. Executor decreases liquidity, collects tokens, and sends proceeds to:
 
-`0x32eb462158F7A121d407510C340928404d863E94`
+`0x1b7809EB9aCE9b9056f921F5593Ef925AB9Fa7fB`
 
 ---
 
